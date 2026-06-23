@@ -33,8 +33,14 @@ h1,
 h2,
 h3 {
 	color: green;
+	margin: 20px;
 }
 
-h2{
-    color: crimson
+h2 {
+	color: crimson;
+}
+
+img {
+	width: 250px;
+	margin: 20px;
 }
